@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dariansharma
-- 🌱 I’m currently learning frontend and backend development
 - 📫 How to reach me: dariansharma@gmail.com
 
 <!---
